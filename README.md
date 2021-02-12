@@ -1,24 +1,46 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails console app based on the [reddit](https://reddit.com) platform.
 
-Things you may want to cover:
+## Getting started
 
-* Ruby version
+- Clone the repo `https://github.com/KumarAmitt/micro-reddit.git`
+- `cd` into the micro-reddit
+- Run `git checkout -b micro-reddit`
+- Run `git pull origin micro-reddit`
+- Run `bundle install`
+- Run `rails db:migrate` to get the schema
 
-* System dependencies
+## Features
 
-* Configuration
+- Users can register themselves using their credentials
+- Users can create posts and comment on other posts
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
+👤 Rose Sumba
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@ZawadiSumba66](https://github.com/ZawadiSumba66)
+- Twitter: [@zawadirose1](https://twitter.com/zawadirose1)
+- LinkedIn: [rose-sumba](https://www.linkedin.com/in/rose-sumba-9b36401b5/)
 
-* Deployment instructions
+👤 Kumar Amitt
 
-* ...
+- GitHub: [@githubhandle](https://github.com/KumarAmitt)
+- Twitter: [@twitterhandle](https://twitter.com/ArrshAmitt)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/kumar-amitt)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the issues page.
+
+Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is a collaboration project. All rights are reserved for Rose and Kumar.
