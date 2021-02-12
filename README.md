@@ -1,6 +1,6 @@
 # Micro Reddit
 
-A simple rails console app based on the [reddit](https://reddit.com) platform.
+A simple rails console app based on the [reddit](https://reddit.com) platform
 
 ## Getting started
 
